@@ -8,15 +8,11 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <div className="Map-Container">
-
-        <Map className="App-Map" alt="smile-map"/>
+          <Map className="App-Map" alt="smile-map"/>
         </div>
-        <p>
-          Hi Hi . Map Goes Here ^^^
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://mthsmile.com"
           target="_blank"
           rel="noopener noreferrer"
         >
